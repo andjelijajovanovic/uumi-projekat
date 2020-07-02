@@ -127,6 +127,7 @@ class Snimanje:
             format_linije.format("Izvestaj", self.__izvestaj),
             format_linije.format("Lekar", self.__lekar),
             format_linije.format("Snimak", self.__snimak),
+            format_linije.format("Tip", self.__tip),
         ]
         )
 
